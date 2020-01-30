@@ -1,3 +1,3 @@
 # Programming-I
 
-Here, I will upload the task of Programming I
+Here, I will upload the tasks of Programming I
